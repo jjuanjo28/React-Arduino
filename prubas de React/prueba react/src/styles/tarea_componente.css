@@ -1,0 +1,10 @@
+.contenedor {
+  background-color: blue;
+  padding: 6px;
+  border-radius: 15px;
+}
+.contenedor .titulo {
+  background-color: red;
+  border-radius: 5px;
+  padding: 2px 5px;
+}/*# sourceMappingURL=tarea_componente.css.map */
